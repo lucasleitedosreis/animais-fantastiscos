@@ -15,7 +15,7 @@ export default class HorarioFunc {
     //dia em numero da semana
     this.diaHoje = this.dataAgora.getDay();
     //horario do dia
-    this.horarioAgora = this.dataAgora.getUTCHours() - 3;
+    this.horarioAgora = this.dataAgora.getHours();
   }
 
   estaAberto() {
@@ -30,7 +30,7 @@ export default class HorarioFunc {
   }
 
   ativaAberto() {
-    if (this.estaAberto) {
+    if (this.estaAberto()) {
       this.funcionamento.classList.add(this.activeClass);
     }
   }
