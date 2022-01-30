@@ -10,7 +10,8 @@ export default class MenuMobile {
     else this.events = events;
   }
 
-  openMenu() {
+  openMenu(event) {
+    event.preventDefault();
     this.menuButton.classList.add("active");
     this.menuList.classList.add("active");
     outSideClick(this.menuList, this.events, () => {
