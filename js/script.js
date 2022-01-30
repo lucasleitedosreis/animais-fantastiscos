@@ -66,3 +66,9 @@ fetchAnimais("/animaisApi.json", ".numeros-grid");
 //Mostra um valor em Bitcoin para doação
 import fetchBitcoin from "./modules/fetchBitcoin.js";
 fetchBitcoin("https://blockchain.info/ticker", ".btc-preco");
+
+//===========================================================
+import SlideNav from "./modules/slide.js";
+const slide = new SlideNav(".slide", ".slide-wrapper");
+slide.init();
+slide.addControl(".custom-controls");
