@@ -3,7 +3,7 @@
 
 [Acesse o site](https://lucasleitedosreis.github.io/animais-fantastiscos/ "Animais fantásticos")
 
-Plataforma de Cursos Origamid
+Plataforma de Cursos: Origamid
 
 Professor : André Rafael
 
