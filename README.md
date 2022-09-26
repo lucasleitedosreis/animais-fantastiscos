@@ -1,6 +1,10 @@
-PROJETO JAVASCRIPT - ANIMAIS FANTÁSTICOS <br>
-CURSO ORIGAMID <br>
-PROFESSOR - ANDRÉ RAFAEL <br>
+
+<h1 align="center">Animais Fantásticos</h1>
+
+[Acesse o site](https://lucasleitedosreis.github.io/animais-fantastiscos/ "Animais fantásticos")
+
+CURSO ORIGAMID
+PROFESSOR - ANDRÉ RAFAEL
 
 <hr>
 
