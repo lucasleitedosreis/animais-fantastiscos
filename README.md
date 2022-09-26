@@ -3,8 +3,9 @@
 
 [Acesse o site](https://lucasleitedosreis.github.io/animais-fantastiscos/ "Animais fantásticos")
 
-CURSO ORIGAMID
-PROFESSOR - ANDRÉ RAFAEL
+Plataforma de Cursos Origamid
+
+Professor : André Rafael
 
 <h3>Site desenvolvido com:</h3>
 
